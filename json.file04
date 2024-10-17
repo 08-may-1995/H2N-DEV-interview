@@ -1,0 +1,19 @@
+{
+	"Order": {
+		"OrderID": "1004",
+		"Customer": {
+			"CustomerID": "4",
+			"Name": "Emily Johnson"
+		},
+		"OrderDate": "2024-10-15T13:30:00",
+		"Products": {
+			"Product": {
+				"ProductID": "104",
+				"Name": "USB Hub",
+				"Quantity": "3",
+				"Price": "15.00"
+			}
+		},
+		"TotalAmount": "45.00"
+	}
+}
