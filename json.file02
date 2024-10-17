@@ -1,0 +1,19 @@
+{
+	"Order": {
+		"OrderID": "1002",
+		"Customer": {
+			"CustomerID": "2",
+			"Name": "Jane Doe"
+		},
+		"OrderDate": "2024-10-15T11:00:00",
+		"Products": {
+			"Product": {
+				"ProductID": "102",
+				"Name": "Keyboard",
+				"Quantity": "1",
+				"Price": "49.99"
+			}
+		},
+		"TotalAmount": "49.99"
+	}
+}
