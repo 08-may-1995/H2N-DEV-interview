@@ -1,0 +1,19 @@
+{
+	"Order": {
+		"OrderID": "1003",
+		"Customer": {
+			"CustomerID": "3",
+			"Name": "Anna Smith"
+		},
+		"OrderDate": "2024-10-15T12:00:00",
+		"Products": {
+			"Product": {
+				"ProductID": "103",
+				"Name": "Monitor",
+				"Quantity": "1",
+				"Price": "199.99"
+			}
+		},
+		"TotalAmount": "199.99"
+	}
+}
