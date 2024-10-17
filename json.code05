@@ -1,0 +1,21 @@
+{
+	"Orders": {
+		"Order": {
+			"OrderID": "41",
+			"Customer": {
+				"CustomerID": "41",
+				"Name": "Customer 41"
+			},
+			"OrderDate": "2024-10-15T10:41:00",
+			"Products": {
+				"Product": {
+					"ProductID": "141",
+					"Name": "Product 41",
+					"Quantity": "4",
+					"Price": "84.71"
+				}
+			},
+			"TotalAmount": "257.08"
+		}
+	}
+}
